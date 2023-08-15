@@ -3,6 +3,8 @@
 2. Python Basics Assignment 2
 3. Python Basics Assignment 3
 4. Python Basics Assignment 4
+5. Python Basics Assignment 5
+6. Python Basics Assignment 6
 26. Programming Assignment_1
 27. Programming Assignment_2
 28. Programming Assignment_3
