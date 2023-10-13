@@ -43,7 +43,7 @@
    - *This assignment tests the concepts of ___________________________.*
      
 ## Python Basics Assignment 15
-   - *This assignment tests the concepts of lists,list methods, dictionaries, and multilevel dictionaries.*
+   - *This assignment tests the concepts of generators and floating-point values.*
     
 ## Python Basics Assignment 16
    - *This assignment tests the concepts of lists, list methods, dictionaries, and multilevel dictionaries.*
