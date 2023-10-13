@@ -1,6 +1,4 @@
-# Python Basics and Programming Assignments
-
-## Python Basics Assignments
+# Python Basics Assignments
 
 ## Python Basics Assignment 1
    - *This assignment tests the concepts of ___________________________.*
