@@ -15,8 +15,8 @@
 14. Python Basics Assignment 14
 15. Python Basics Assignment 15
     (This assignment test the concepts of generators and floating point value.)
-16. Python Basics Assignment 16
-    (This assignment test the concepts of list, list methods, dictionary & multilevel dictionary)
+16. Python Basics Assignment 16 (This assignment test the concepts of list, list methods, dictionary & multilevel dictionary)
+17. Python Basics Assignment 17 (This assignment test the concepts of loops in python, list comprehension, set comprehension, dictionary comprehension, generator function, exception handling, zip() function)
 26. Programming Assignment_1
 27. Programming Assignment_2
 28. Programming Assignment_3
