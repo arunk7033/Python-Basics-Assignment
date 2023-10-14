@@ -51,6 +51,9 @@
 ## Python Basics Assignment 17
    - *This assignment tests the concepts of loops in Python, list comprehension, set comprehension, dictionary comprehension, generator functions, exception handling, and the zip() function.*
 
+## Python Basics Assignment 18
+   - *This assignment tests the concepts of module creation, module importing, interactive interpreter, Dictionary Creation, OrderedDict, DefaultDict & Appending to DefaultDict Lists.*
+
 ## Programming Assignments
 
 26. [Programming Assignment 1](#programming-assignment-1)
