@@ -54,6 +54,9 @@
 ## Python Basics Assignment 18
    - *This assignment tests the concepts of module creation, module importing, interactive interpreter, Dictionary Creation, OrderedDict, DefaultDict & Appending to DefaultDict Lists.*
 
+## Python Basics Assignment 19
+   - *This assignment tests the concepts of classes and Objects, Attributes, Methods, Intiliazation(Constructor), Encapsulation, Custom String Representation, Inheritance and Composition.*
+     
 ## Programming Assignments
 
 26. [Programming Assignment 1](#programming-assignment-1)
