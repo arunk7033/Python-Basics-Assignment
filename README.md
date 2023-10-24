@@ -56,6 +56,9 @@
 
 ## Python Basics Assignment 19
    - *This assignment tests the concepts of classes and Objects, Attributes, Methods, Intiliazation(Constructor), Encapsulation, Custom String Representation, Inheritance and Composition.*
+
+## Python Basics Assignment 20
+   - *This assignment tests the concepts of Setting a Variable and Writing to a File (File I/O), Reading from a File (File I/O), Working with CSV Files (CSV Module), SQLite Database Creation, CSV Data Import, Data Retrieval from SQLite, SQLAlchemy Connection, Redis Installation, Python Redis Library, Redis Hash Creation, Redis Field Increment.*
      
 ## Programming Assignments
 
