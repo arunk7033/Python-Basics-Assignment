@@ -64,7 +64,7 @@
    - *This assignment tests the concepts of Datetime module, File I/O, String parsing and formatting, OS module, Multiprocessing, Random module, Date arithmetic, Datetime object creation.*
 
 ## Python Basics Assignment 22
-   - *This assignment tests the concepts of Variable scope, nonlocal keyword, Indentation, Function nesting, Variable modification, Function execution.*
+   - *This assignment tests the concepts of Variable scope, nonlocal keyword, Function nesting, Variable modification, Function execution.*
      
 ## Programming Assignments
 
