@@ -65,6 +65,9 @@
 
 ## Python Basics Assignment 22
    - *This assignment tests the concepts of Variable scope, nonlocal keyword, Function nesting, Variable modification, Function execution.*
+
+## Python Basics Assignment 23
+   - *This assignment tests the concepts of Function, Function Effects, Concept of Default Values.*
      
 ## Programming Assignments
 
