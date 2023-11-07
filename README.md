@@ -59,6 +59,9 @@
 
 ## Python Basics Assignment 20
    - *This assignment tests the concepts of Setting a Variable and Writing to a File (File I/O), Reading from a File (File I/O), Working with CSV Files (CSV Module), SQLite Database Creation, CSV Data Import, Data Retrieval from SQLite, SQLAlchemy Connection, Redis Installation, Python Redis Library, Redis Hash Creation, Redis Field Increment.*
+
+## Python Basics Assignment 21
+   - *This assignment tests the concepts of Datetime module, File I/O, String parsing and formatting, OS module, Multiprocessing, Random module, Date arithmetic, Datetime object creation.*
      
 ## Programming Assignments
 
