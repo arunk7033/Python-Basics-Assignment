@@ -68,6 +68,9 @@
 
 ## Python Basics Assignment 23
    - *This assignment tests the concepts of Default Function Parameters, Positional and Keyword Arguments, Variable-Length Arguments, Function Effects on Mutable Data Types, Understanding Function Calls.*
+
+## Python Basics Assignment 24
+   - *This assignment tests the concepts of Lambda Expressions and def Statements, Benefits of Lambda Expressions, Comparison of map, filter, and reduce, Function Annotations, Recursive Functions, General Design Guidelines for Functions, Ways Functions Communicate Results.*
      
 ## Programming Assignments
 
