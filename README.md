@@ -71,6 +71,9 @@
 
 ## Python Basics Assignment 24
    - *This assignment tests the concepts of Lambda Expressions and def Statements, Benefits of Lambda Expressions, Comparison of map, filter, and reduce, Function Annotations, Recursive Functions, General Design Guidelines for Functions, Ways Functions Communicate Results.*
+
+## Python Basics Assignment 25
+   - *This assignment tests the concepts of List Comprehensions vs. Generators, Generators and Iterators, Signs of Generator Functions, Purpose of yield Statement, Map Calls vs. List Comprehensions.*
      
 ## Programming Assignments
 
