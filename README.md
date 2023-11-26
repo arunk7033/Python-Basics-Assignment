@@ -1,13 +1,13 @@
 # Python Basics Assignments
 
 ## Python Basics Assignment 1
-   - *This assignment tests the concepts of ___________________________.*
+   - *This assignment tests the concepts of Variables and assignment statements, Data types (int, float, str), Expressions and operators, String concatenation and Type conversion functions.*
      
 ## Python Basics Assignment 2
-   - *This assignment tests the concepts of ___________________________.*
+   - *This assignment tests the concepts of Boolean data type and operators, Comparison operators, Conditional statements (if, elif, else), Loops (for, while), Interrupting loops and Function calls and modules.*
 
 ## Python Basics Assignment 3
-   - *This assignment tests the concepts of ___________________________.*
+   - *This assignment tests the concepts of .*
 
 ## Python Basics Assignment 4
    - *This assignment tests the concepts of ___________________________.*
