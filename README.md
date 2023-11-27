@@ -13,7 +13,7 @@
    - *This assignment tests the concepts of Empty List, List Assignment, List Indexing, Negative Indexing, List Slicing, List Index Method, List Append Method, List Remove Method, List Concatenation and Replication, Difference between append() and insert(), Methods for Removing Items from a List, List and String Similarities, Difference between Tuples and Lists, Creating a Tuple with a Single Value, Converting Between List and Tuple, Variables Containing List Values and copy.copy() vs. copy.deepcopy().*
 
 ## Python Basics Assignment 5
-   - *This assignment tests the concepts of ___________________________.*
+   - *This assignment tests the concepts of Empty Dictionary, Dictionary with Key-Value Pair, Distinction between Dictionary and List, Accessing a Nonexistent Key, Difference between 'in' and 'in keys()', Difference between 'in' and 'in values()', Shortcut for Adding a Key-Value Pair and Pretty Printing Dictionaries.*
 
 ## Python Basics Assignment 6
    - *This assignment tests the concepts of ___________________________.*
