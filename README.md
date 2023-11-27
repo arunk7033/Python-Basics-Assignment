@@ -33,16 +33,16 @@ Use of shelve for persistent storage in a dictionary-like format.*
 Practical application of file operations to automate tasks, such as copying files based on certain criteria.*
 
 ## Python Basics Assignment 11
-   - *This assignment tests the concepts of ___________________________.*
+   - *This assignment tests the concepts of Proper usage of assert statements for debugging and error checking, Configuration and usage of the logging module for logging messages, Understanding and using different logging levels, Debugger concepts such as stepping over, stepping in, and stepping out, Utilizing breakpoints for interactive debugging, Advantages of logging messages over print() for debugging and monitoring..*
 
 ## Python Basics Assignment 12
-   - *This assignment tests the concepts of ___________________________.*
+   - *This assignment tests the concepts of File handling in binary mode for PDF operations, Interacting with PDF documents using the PyPDF2 library, Manipulating and modifying PDFs, such as decrypting encrypted PDFs and rotating pages, Working with the python-docx library to create and manipulate Word documents, Understanding the structure of Word documents, including paragraphs, runs, and styles and Creating and modifying content in Word documents..*
 
 ## Python Basics Assignment 13
-   - *This assignment tests the concepts of ___________________________.*
+   - *This assignment tests the concepts of Reading and writing data in CSV format using the csv module, Modes for opening file objects for reading and writing in the context of CSV operations, Writing data to CSV files using the writerow() method, Understanding the importance of delimiter and line terminator in CSV files, Interacting with JSON data using the json module and Converting between JSON data and Python data structures. .*
      
 ## Python Basics Assignment 14
-   - *This assignment tests the concepts of ___________________________.*
+   - *This assignment tests the concepts of Understanding the RGBA color model and its components, Image manipulation using the Pillow module in Python, Working with box tuples to define regions in an image, Retrieving and manipulating pixel values in an image, Performing basic operations on Image objects, such as cropping, Saving modified images using the Pillow module, Utilizing the ImageDraw module for drawing shapes on images and Differentiating between Image and ImageDraw objects and their functionalities.*
      
 ## Python Basics Assignment 15
    - *This assignment tests the concepts of generators and floating-point values.*
@@ -77,18 +77,6 @@ Practical application of file operations to automate tasks, such as copying file
 ## Python Basics Assignment 25
    - *This assignment tests the concepts of List Comprehensions vs. Generators, Generators and Iterators, Signs of Generator Functions, Purpose of yield Statement, Map Calls vs. List Comprehensions.*
      
-## Programming Assignments
-
-26. [Programming Assignment 1](#programming-assignment-1)
-27. [Programming Assignment 2](#programming-assignment-2)
-28. [Programming Assignment 3](#programming-assignment-3)
-29. [Programming Assignment 4](#programming-assignment-4)
-30. [Programming Assignment 5](#programming-assignment-5)
-31. [Programming Assignment 6](#programming-assignment-6)
-32. [Programming Assignment 7](#programming-assignment-7)
-33. [Programming Assignment 8](#programming-assignment-8)
-34. [Programming Assignment 9](#programming-assignment-9)
-35. [Programming Assignment 10](#programming-assignment-10)
 
 
 
