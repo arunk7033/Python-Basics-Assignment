@@ -22,7 +22,7 @@
    - *This assignment tests the concepts of  Regex Object Generation, Raw Strings in Regex Objects, Return Value of search() Method, Getting Matched Strings from a Match Object, Groups in Regex, Escaping Parentheses and Periods, findall() Method Return Options, Meaning of the | Character, Character Classes, Difference between + and * in Regex, Difference between {4} and {4,5} in Regex, Shorthand Character Classes (\d, \w, \s), Negated Shorthand Character Classes (\D, \W, \S), Difference between .? and . , Character Class for Numbers and Lowercase Letters, Making a Regex Case Insensitive, Meaning of . in Regex, Using sub() Method, Passing re.VERBOSE to re.compile(), Regex for Matching Numbers with Commas, Regex for Matching Full Names and Regex for Matching Sentence Patterns.*
 
 ## Python Basics Assignment 8
-   - *This assignment tests the concepts of ___________________________.*
+   - *This assignment tests the concepts of Use of external libraries (PyInputPlus), Importing modules with aliases, Handling different types of input (integer, float) using PyInputPlus, Specifying input constraints such as limits and allowed/blocked patterns, Exception handling with PyInputPlus and Utilizing default values for input prompts.*
      
 ## Python Basics Assignment 9
    - *This assignment tests the concepts of ___________________________.*
