@@ -10,7 +10,7 @@
    - *This assignment tests the concepts of Functions and their advantages, Function creation and execution, Scopes in Python (global and local), Return values and their usage, Global variables in functions, Handling errors with try-except and Importing modules and using functions from them .*
 
 ## Python Basics Assignment 4
-   - *This assignment tests the concepts of ___________________________.*
+   - *This assignment tests the concepts of Empty List, List Assignment, List Indexing, Negative Indexing, List Slicing, List Index Method, List Append Method, List Remove Method, List Concatenation and Replication, Difference between append() and insert(), Methods for Removing Items from a List, List and String Similarities, Difference between Tuples and Lists, Creating a Tuple with a Single Value, Converting Between List and Tuple, Variables Containing List Values and copy.copy() vs. copy.deepcopy().*
 
 ## Python Basics Assignment 5
    - *This assignment tests the concepts of ___________________________.*
