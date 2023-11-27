@@ -19,7 +19,7 @@
    - *This assignment tests the concepts of Escape Characters, Meaning of Escape Characters n and t, Including Backslash Characters, Unescaped Single Quote in a String, Writing a String of Newlines without n, Values of Expressions, Values of Expressions with String Methods, Values of Expressions with split() and join(), String Justification and Centering and Removing Whitespace.*
 
 ## Python Basics Assignment 7
-   - *This assignment tests the concepts of ___________________________.*
+   - *This assignment tests the concepts of  Regex Object Generation, Raw Strings in Regex Objects, Return Value of search() Method, Getting Matched Strings from a Match Object, Groups in Regex, Escaping Parentheses and Periods, findall() Method Return Options, Meaning of the | Character, Character Classes, Difference between + and * in Regex, Difference between {4} and {4,5} in Regex, Shorthand Character Classes (\d, \w, \s), Negated Shorthand Character Classes (\D, \W, \S), Difference between .? and . , Character Class for Numbers and Lowercase Letters, Making a Regex Case Insensitive, Meaning of . in Regex, Using sub() Method, Passing re.VERBOSE to re.compile(), Regex for Matching Numbers with Commas, Regex for Matching Full Names and Regex for Matching Sentence Patterns.*
 
 ## Python Basics Assignment 8
    - *This assignment tests the concepts of ___________________________.*
