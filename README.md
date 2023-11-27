@@ -25,7 +25,8 @@
    - *This assignment tests the concepts of Use of external libraries (PyInputPlus), Importing modules with aliases, Handling different types of input (integer, float) using PyInputPlus, Specifying input constraints such as limits and allowed/blocked patterns, Exception handling with PyInputPlus and Utilizing default values for input prompts.*
      
 ## Python Basics Assignment 9
-   - *This assignment tests the concepts of ___________________________.*
+   - *This assignment tests the concepts of Understanding and working with file paths (relative and absolute), File system navigation using os.getcwd() and os.chdir(), Different file modes in the open() function for reading, writing, and appending, Handling existing files in write mode and its impact, Distinction between read() and readlines() for file reading and 
+Use of shelve for persistent storage in a dictionary-like format.*
 
 ## Python Basics Assignment 10
    - *This assignment tests the concepts of ___________________________.*
