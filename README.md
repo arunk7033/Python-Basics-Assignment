@@ -76,6 +76,10 @@ Practical application of file operations to automate tasks, such as copying file
 
 ## Assignment 25
    - *This assignment tests the concepts of List Comprehensions vs. Generators, Generators and Iterators, Signs of Generator Functions, Purpose of yield Statement, Map Calls vs. List Comprehensions.*
+
+## Programming Assignment 1
+   - *This assignment tests the concepts of Basic syntax and structure of Python programs, Use of the print() function for output, Variable assignment and basic arithmetic operations, 
+Introduction to mathematical formulas and expressions, Swapping values between variables and Utilizing the random module for generating random numbers.*
      
 
 
