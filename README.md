@@ -7,7 +7,7 @@
    - *This assignment tests the concepts of Boolean data type and operators, Comparison operators, Conditional statements (if, elif, else), Loops (for, while), Interrupting loops and Function calls and modules.*
 
 ## Python Basics Assignment 3
-   - *This assignment tests the concepts of .*
+   - *This assignment tests the concepts of Functions and their advantages, Function creation and execution, Scopes in Python (global and local), Return values and their usage, Global variables in functions, Handling errors with try-except and Importing modules and using functions from them .*
 
 ## Python Basics Assignment 4
    - *This assignment tests the concepts of ___________________________.*
