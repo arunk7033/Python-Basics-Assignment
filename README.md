@@ -90,6 +90,12 @@ Introduction to mathematical formulas and expressions, Swapping values between v
 ## Programming Assignment 4
    - *This assignment tests the concepts of Loops (for and while) for repetitive tasks, Mathematical calculations and concepts (factorial, multiplication, Fibonacci sequence, Armstrong number), Nested loops for more complex tasks, Input validation and handling for certain cases (e.g., negative numbers), Algorithmic thinking and problem-solving in Python and Working with intervals and checking conditions.*
 
+## Programming Assignment 5
+   - *This assignment tests the concepts of Mathematical concepts of LCM and HCF, Number system conversions (decimal to binary, octal, hexadecimal), ASCII representation and conversion of characters, Implementing functions for modular code, User input validation and handling and Basic arithmetic operations and conditional statements in a calculator program.*
+
+## Programming Assignment 6
+   - *This assignment tests the concepts of Recursion and its application in generating sequences and calculating factorials, User input validation and handling, Mathematical concepts of BMI calculation and natural logarithm, Importing and using modules (e.g., math module), Basic arithmetic operations and mathematical formulas and Looping through a range and summing up values.*
+
 
 
 
