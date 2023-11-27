@@ -29,7 +29,8 @@
 Use of shelve for persistent storage in a dictionary-like format.*
 
 ## Python Basics Assignment 10
-   - *This assignment tests the concepts of ___________________________.*
+   - *This assignment tests the concepts of File and directory manipulation using the shutil and os modules, Copying files and directories, both individual files (shutil.copy()) and entire directory trees (shutil.copytree()), Renaming files using os.rename(), Zip file manipulation with the zipfile module, File system traversal to search for specific files and 
+Practical application of file operations to automate tasks, such as copying files based on certain criteria.*
 
 ## Python Basics Assignment 11
    - *This assignment tests the concepts of ___________________________.*
