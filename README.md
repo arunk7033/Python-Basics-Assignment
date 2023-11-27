@@ -80,7 +80,9 @@ Practical application of file operations to automate tasks, such as copying file
 ## Programming Assignment 1
    - *This assignment tests the concepts of Basic syntax and structure of Python programs, Use of the print() function for output, Variable assignment and basic arithmetic operations, 
 Introduction to mathematical formulas and expressions, Swapping values between variables and Utilizing the random module for generating random numbers.*
-     
+
+## Programming Assignment 2
+   - *This assignment tests the concepts of User input using the input() function, Basic arithmetic operations and mathematical expressions, Unit conversion and understanding conversion factors, Working with external modules (calendar module), Handling complex numbers using the cmath module and Variable assignment and swapping values without a temporary variable.*
 
 
 
