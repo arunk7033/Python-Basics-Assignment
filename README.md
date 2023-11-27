@@ -16,7 +16,7 @@
    - *This assignment tests the concepts of Empty Dictionary, Dictionary with Key-Value Pair, Distinction between Dictionary and List, Accessing a Nonexistent Key, Difference between 'in' and 'in keys()', Difference between 'in' and 'in values()', Shortcut for Adding a Key-Value Pair and Pretty Printing Dictionaries.*
 
 ## Python Basics Assignment 6
-   - *This assignment tests the concepts of ___________________________.*
+   - *This assignment tests the concepts of Escape Characters, Meaning of Escape Characters n and t, Including Backslash Characters, Unescaped Single Quote in a String, Writing a String of Newlines without n, Values of Expressions, Values of Expressions with String Methods, Values of Expressions with split() and join(), String Justification and Centering and Removing Whitespace.*
 
 ## Python Basics Assignment 7
    - *This assignment tests the concepts of ___________________________.*
