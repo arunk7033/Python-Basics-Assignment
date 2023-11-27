@@ -84,6 +84,11 @@ Introduction to mathematical formulas and expressions, Swapping values between v
 ## Programming Assignment 2
    - *This assignment tests the concepts of User input using the input() function, Basic arithmetic operations and mathematical expressions, Unit conversion and understanding conversion factors, Working with external modules (calendar module), Handling complex numbers using the cmath module and Variable assignment and swapping values without a temporary variable.*
 
+## Programming Assignment 3
+   - *This assignment tests the concepts of User input and data conversion (input function), Conditional statements (if, elif, else) for decision-making, Logical conditions and operators, Nested loops for more complex conditions, Concepts of positivity, negativity, zero, odd, even, leap year, and prime numbers and Algorithmic thinking in solving mathematical problems.*
+
+## Programming Assignment 4
+   - *This assignment tests the concepts of Loops (for and while) for repetitive tasks, Mathematical calculations and concepts (factorial, multiplication, Fibonacci sequence, Armstrong number), Nested loops for more complex tasks, Input validation and handling for certain cases (e.g., negative numbers), Algorithmic thinking and problem-solving in Python and Working with intervals and checking conditions.*
 
 
 
