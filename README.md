@@ -1,4 +1,4 @@
-# Python Basics Assignments
+# Python Basics Assignment
 
 ## Assignment 1
    - *This assignment tests the concepts of Variables and assignment statements, Data types (int, float, str), Expressions and operators, String concatenation and Type conversion functions.*
