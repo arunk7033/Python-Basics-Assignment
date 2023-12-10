@@ -96,6 +96,8 @@ Introduction to mathematical formulas and expressions, Swapping values between v
 ## Programming Assignment 6
    - *This assignment tests the concepts of Recursion and its application in generating sequences and calculating factorials, User input validation and handling, Mathematical concepts of BMI calculation and natural logarithm, Importing and using modules (e.g., math module), Basic arithmetic operations and mathematical formulas and Looping through a range and summing up values.*
 
+## Programming Assignment 7
+   - *This assignment tests the concepts of List in Python, Built-in Function, List Slicing, Looping in Python, Conditional Statements, sum of array, largest element in array, array rotation, array splitting, montonicity of array.*
 
 
 
