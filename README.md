@@ -102,7 +102,8 @@ Introduction to mathematical formulas and expressions, Swapping values between v
 ## Programming Assignment 8
    - *This assignment tests the concepts of matrix addition, matrix multiplaction, finding transpose of matrix, sorting the words in alphabetical order and removing punctuation from a string.*
 
-
+## Programming Assignment 9
+   - *This assignment tests the concepts of printing disarium number, happy number, harshad number and pronic number*
 
 
 
