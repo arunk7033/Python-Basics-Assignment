@@ -99,6 +99,8 @@ Introduction to mathematical formulas and expressions, Swapping values between v
 ## Programming Assignment 7
    - *This assignment tests the concepts of List in Python, Built-in Function, List Slicing, Looping in Python, Conditional Statements, sum of array, largest element in array, array rotation, array splitting, montonicity of array.*
 
+## Programming Assignment 8
+   - *This assignment tests the concepts of matrix addition, matrix multiplaction, finding transpose of matrix, sorting the words in alphabetical order and removing punctuation from a string.*
 
 
 
