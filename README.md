@@ -108,6 +108,8 @@ Introduction to mathematical formulas and expressions, Swapping values between v
 ## Programming Assignment 10
    - *This assignment tests the concepts of finding sum, multiplication, smallest number, largest number, second largest number and N largest element of elements in list, printing odd and even numbers from a list, cloning or copying a list and counting occurences of an element in a list.*
 
+## Programming Assignment 11
+   - *This assignment tests the concepts of finding words which are greater than given length k, removing i-th character from a string, splitting and joining a string, checking if a given string is binary string or not, finding uncommon words from two Strings, finding all duplicate characters in string and checking if a string contains any special character.*
 
 
 
