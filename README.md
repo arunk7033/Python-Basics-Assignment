@@ -111,6 +111,8 @@ Introduction to mathematical formulas and expressions, Swapping values between v
 ## Programming Assignment 11
    - *This assignment tests the concepts of finding words which are greater than given length k, removing i-th character from a string, splitting and joining a string, checking if a given string is binary string or not, finding uncommon words from two Strings, finding all duplicate characters in string and checking if a string contains any special character.*
 
+## Programming Assignment 12
+   - *This assignment tests the concepts of extracting Unique values from dictionary, finding the sum of all items in a dictionary, merging two Dictionaries, converting key-values list to flat dictionary, insertion at the beginning in OrderedDict, checking order of character in string using OrderedDict() and sorting Python Dictionaries by Key or Value.*
 
 
 
