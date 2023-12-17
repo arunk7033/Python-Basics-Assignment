@@ -114,5 +114,7 @@ Introduction to mathematical formulas and expressions, Swapping values between v
 ## Programming Assignment 12
    - *This assignment tests the concepts of extracting Unique values from dictionary, finding the sum of all items in a dictionary, merging two Dictionaries, converting key-values list to flat dictionary, insertion at the beginning in OrderedDict, checking order of character in string using OrderedDict() and sorting Python Dictionaries by Key or Value.*
 
+## Programming Assignment 13
+   - *This assignment tests the concepts of String Manipulation and Mathematical Operations, Lists and Nested Loops, String Sorting and Manipulation, Sets and Sorting, String Parsing and Character Classification and Password Validation and Regular Expressions.*
 
 
