@@ -117,4 +117,6 @@ Introduction to mathematical formulas and expressions, Swapping values between v
 ## Programming Assignment 13
    - *This assignment tests the concepts of String Manipulation and Mathematical Operations, Lists and Nested Loops, String Sorting and Manipulation, Sets and Sorting, String Parsing and Character Classification and Password Validation and Regular Expressions.*
 
+## Programming Assignment 14
+   - *This assignment tests the concepts of Generator and Class Definition, String Manipulation and Dictionaries, Class Inheritance and Method Overriding, Nested Loops and List Comprehensions, String Compression and Decompression and Binary Search Implementation.*
 
