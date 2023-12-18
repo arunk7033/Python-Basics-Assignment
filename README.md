@@ -126,3 +126,5 @@ Introduction to mathematical formulas and expressions, Swapping values between v
 ## Programming Assignment 16
    - *This assignment tests the concepts of printing stuttering words, converting radians to degrees, checking curzon Numbers, hexagon area calculation and decimal to Binary Conversion.*
 
+## Programming Assignment 17
+   - *This assignment tests the concepts of Sum of Numbers Divisible in Range, Checking correctness of inequality expression, replacing vowels in a string, recursive factorial calculation and hamming distance calculation.*
