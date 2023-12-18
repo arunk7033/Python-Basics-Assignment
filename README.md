@@ -123,3 +123,6 @@ Introduction to mathematical formulas and expressions, Swapping values between v
 ## Programming Assignment 15
    - *This assignment tests the concepts of Generator Function, Generator for Even Numbers, List Comprehension for Fibonacci Sequence, String Manipulation and Splitting and Class and Inheritance.*
 
+## Programming Assignment 16
+   - *This assignment tests the concepts of printing stuttering words, converting radians to degrees, checking curzon Numbers, hexagon area calculation and decimal to Binary Conversion.*
+
