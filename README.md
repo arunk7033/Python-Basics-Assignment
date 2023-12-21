@@ -128,3 +128,6 @@ Introduction to mathematical formulas and expressions, Swapping values between v
 
 ## Programming Assignment 17
    - *This assignment tests the concepts of Sum of Numbers Divisible in Range, Checking correctness of inequality expression, replacing vowels in a string, recursive factorial calculation and hamming distance calculation.*
+
+## Programming Assignment 18
+   - *This assignment tests the concepts of Data Types and Structures, Control Flow, Functions, Destructuring Assignment and List Manipulation.*
