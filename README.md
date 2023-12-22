@@ -131,3 +131,6 @@ Introduction to mathematical formulas and expressions, Swapping values between v
 
 ## Programming Assignment 18
    - *This assignment tests the concepts of Data Types and Structures, Control Flow, Functions, Destructuring Assignment and List Manipulation.*
+
+## Programming Assignment 19
+   - *This assignment tests the concepts of string manipulation, conditional statements and boolean expressions, mathematical operations, string manipulation and enumerate and list comprehension, range and conditional filtering*
