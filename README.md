@@ -140,3 +140,6 @@ Introduction to mathematical formulas and expressions, Swapping values between v
 
 ## Programming Assignment 21
    - *This assignment tests the concepts of Functions and List Manipulation, Iterating and Summing, String Manipulation and Sorting, Mathematical Calculations and Type Checking and List Comprehension.*
+
+## Programming Assignment 22
+   - *This assignment tests the concepts of Function and List Comprehension, List Comparison and Indexing, String Manipulation and Sorting, String Handling and Case Sensitivity and String and List Comparison.*
