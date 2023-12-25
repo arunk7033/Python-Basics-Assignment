@@ -134,3 +134,9 @@ Introduction to mathematical formulas and expressions, Swapping values between v
 
 ## Programming Assignment 19
    - *This assignment tests the concepts of string manipulation, conditional statements and boolean expressions, mathematical operations, string manipulation and enumerate and list comprehension, range and conditional filtering*
+
+## Programming Assignment 20
+   - *This assignment tests the concepts of Filtering Elements by Type, Index-Based List Manipulation, Mathematical Calculations and Rounding, Understanding and Implementing Patterns and List Handling and Problem Solving .*
+
+## Programming Assignment 21
+   - *This assignment tests the concepts of Functions and List Manipulation, Iterating and Summing, String Manipulation and Sorting, Mathematical Calculations and Type Checking and List Comprehension.*
