@@ -151,4 +151,4 @@ Introduction to mathematical formulas and expressions, Swapping values between v
    - *This assignment tests the concepts of List Comprehension, Handling Unique Elements, Class Construction and Getters, Sorting Lists and Pythagorean Triplets.*
 
 ## Programming Assignment 25
-   - *This assignment tests the concepts of  .*
+   - *This assignment tests the concepts of Equality Comparison and Function Output, Dictionary Manipulation and Sorting, Mapping and Dictionary Creation, String Manipulation and Replacement and ASCII Code Manipulation and String Capitalization.*
