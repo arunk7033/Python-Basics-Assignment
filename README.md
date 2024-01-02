@@ -146,3 +146,9 @@ Introduction to mathematical formulas and expressions, Swapping values between v
 
 ## Programming Assignment 23
    - *This assignment tests the concepts of Symmetry Check and Reversing Numbers, String Manipulation and Type Conversion, Looping and Mathematical Operations, List Manipulation and Set Operations and Mathematical Computation and Integer Division .*
+
+## Programming Assignment 24
+   - *This assignment tests the concepts of List Comprehension, Handling Unique Elements, Class Construction and Getters, Sorting Lists and Pythagorean Triplets.*
+
+## Programming Assignment 25
+   - *This assignment tests the concepts of  .*
